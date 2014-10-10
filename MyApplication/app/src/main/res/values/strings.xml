@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name = "btn_add">Add</string>
+
+    <string name = "label_avg">Average Length</string>
+    <string name = "label_count">Count</string>
+
+
+
+</resources>
